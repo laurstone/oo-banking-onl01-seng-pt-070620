@@ -16,3 +16,4 @@ class Transfer
       puts "invalid"
     end
   end
+end
